@@ -1,0 +1,10 @@
+Node.js
+arsitektur node js:
+-event queue
+-event loop 
+-event pool (multithread)
+
+urutan midule:
+- core module
+- local module
+- node_modules.
